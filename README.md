@@ -18,7 +18,7 @@ The macro uses html for the ui via the `WebViewToo` library.
 
 ## ✨ Features yay
 
-Automate the bamb shop
+### 🛒 Shop Macro
 * **Select and customize what to buy** Filter and toggle specific items across multiple tiers (Common, Uncommon, Rare) and categories like Decoration, Production, Units, or Special tabs. 
 * **Complete Buying Control:** Set exact item quantities, save your settings and selected items in to different profiles.
 
