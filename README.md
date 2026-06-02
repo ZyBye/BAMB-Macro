@@ -14,7 +14,7 @@ The macro uses html for the ui via the `WebViewToo` library.
 * **System Requirement:** Your computer needs the core Microsoft WebView2 runtime installed. This is **installed by default on modern Windows 10 and Windows 11 systems**. If your GUI isn't loading, you can update it manually from Microsoft's website (But you should generally not have to).
 
 ### 3. Screen Resolution Support
-* 🖥️ **All Resolutions Supported:** The macro and its UI are fully responsive and designed to work for all resolutions, as it minimizes your window to the smallest roblox allows, designed this way intentionally as I plan to use bitmap later for detection.
+* 🖥️ **All Resolutions Supported:** The macro and its UI are designd to work for all resolutions of monitors, as it minimizes your window to the smallest roblox allows, designed this way intentionally as I plan to use bitmap later for detection.
 
 ## ✨ Features yay
 
