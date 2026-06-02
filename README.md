@@ -12,3 +12,9 @@ This macro is built entirely using features exclusive to AHK v2.
 The macro uses html for the ui via the `WebViewToo` library. 
 * **Note:** The `WebViewToo` helper library is already **included inside this project folder** you do not need to download it separately.
 * **System Requirement:** Your computer needs the core Microsoft WebView2 runtime installed. This is **installed by default on modern Windows 10 and Windows 11 systems**. If your GUI isn't loading, you can update it manually from Microsoft's website (But you should generally not have to).
+
+> [!IMPORTANT]
+> **Notice regarding Robux Detection:**
+> The current version of this macro relies on pixel color detection with color tolerance thresholds to scan for Robux prompts. Because color detection can occasionally be finicky depending on screen lighting or minor UI shifts this system is temporary.
+> 
+> I am actively working on improving this mechanics. In a future update, the macro will likely switch over to bitmap or something else, though it should suffice for now.
