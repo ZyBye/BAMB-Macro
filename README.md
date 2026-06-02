@@ -1,4 +1,4 @@
-# Macro for the game Build a Military Base on Roblox
+# BAMB/Build a Military Base Macro
 
 ## 📌 Prerequisites
 
